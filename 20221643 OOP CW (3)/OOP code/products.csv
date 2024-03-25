@@ -1,0 +1,14 @@
+Class, ID, Name, Quantity, Price, Brand, Warranty, Size, Color
+Clothing,C01,T-Shirt,15,20.0,,,M,Red
+Clothing,C02,Jeans,1,40.0,,,L,Blue
+Clothing,C03,Jacket,2,60.0,,,XL,Black
+Clothing,C04,Dress,2,80.0,,,S,Green
+Clothing,C05,Skirt,6,30.0,,,M,Yellow
+Clothing,C06,dfhdh,2,600.0,,,S,RED
+Clothing,C07,hjkhk,1,800.0,,,M,BLUE
+Electronics,E01,Computer,1,400.0,Hitachi,24,,
+Electronics,E03,Monitor,2,150.0,Samsung,36,,
+Electronics,E04,Tablet,2,250.0,Apple,24,,
+Electronics,E05,Smartphone,4,500.0,OnePlus,12,,
+Electronics,E07,dhdfh,0,145.0,gfjf,4,,
+Electronics,E08,gfjfj,2,78.0,hgfjfg,2,,
